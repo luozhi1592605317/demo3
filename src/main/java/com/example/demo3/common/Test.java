@@ -4,7 +4,7 @@ public class Test {
     private String lz;
     private String a;
     private String b;
-
+    private String c;
     public void test1(){
         System.out.println(1);
     }
